@@ -16,3 +16,5 @@ def limit(arr, min=None, max=None):
 
 
 print(limit([1, 2, 3, 4, 5], min=3))
+print(limit([1, 2, 3, 4, 5], max=3))
+print(limit([1, 2, 3, 4, 5], max=3, min=3))
