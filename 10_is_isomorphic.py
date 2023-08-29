@@ -22,4 +22,4 @@ def is_isomorphic(s, t):
     return True
 
 
-print(is_isomorphic('foo', 'baa'))
+print(is_isomorphic('good', 'mood'))
